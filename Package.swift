@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "Shared",
-         url: "https://x0.at/RZAx.zip",
-         checksum:"e5768e199920ccc770518866696f3a935ca0635d5d8f61fa4c7c1624a89b3d8c")
+         url: "https://github.com/yulmaso/test/raw/main/Shared.xcframework.zip",
+         checksum:"726a76fdc4a0085f878aa45b07b941bdd2421e5ababa9ca8a1e2c9aadaf20859")
    ]
 )
